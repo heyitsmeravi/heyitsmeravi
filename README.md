@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [heyitsmeravi.github.io](heyitsmeravi.github.io)
 
-- 📫 How to reach me **ravijnv2428@gmail.com**
+- 📫 Reach me at **ravijnv2428@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
