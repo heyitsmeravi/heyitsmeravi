@@ -8,6 +8,7 @@
 - 👨‍💻 All of my projects are available at [heyitsmeravi.github.io](heyitsmeravi.github.io)
 
 - 📫 Reach me at **ravijnv2428@gmail.com**
+<img src="https://github-profile-trophy.vercel.app/?username=heyitsmeravi&theme=light">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
