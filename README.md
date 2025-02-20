@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, C++,**
 
-- 👨‍💻 All of my projects are available at [heyitsmeravi.github.io](heyitsmeravi.github.io)
+- 👨‍💻 All of my projects are available at [heyitsmeravi.github.io](heyitsmeravi.github.io/portfolio)
 
 - 📫 Reach me at **ravijnv2428@gmail.com**
 <img src="https://github-profile-trophy.vercel.app/?username=heyitsmeravi&theme=light">
