@@ -5,10 +5,10 @@
 <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=heyitsmeravi&label=Profile%20views&color=0e75b6&style=flat" alt="heyitsmeravi" /> </p>
 
-<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
+<div align="start" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
  
- ⚡ Currently learning advanced React & TypeScript while building **Project Nexus**, an AI-powered career navigation platform.
- 
+ 🌱 Learning advanced React and TypeScript.
+ 🚀 Building Project Nexus — an AI-powered career navigator for developers.
  👨‍💻 All of my projects are available at [heyitsmeravi.github.io/Portfolio](https://heyitsmeravi.github.io/Portfolio/);
 
  📫 Reach me at **ravijnv2428@gmail.com**;
