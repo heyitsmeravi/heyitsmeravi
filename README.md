@@ -7,11 +7,11 @@
 
 <div align="start" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
  
- 🌱 Learning advanced React and TypeScript.
- 🚀 Building Project Nexus — an AI-powered career navigator for developers.
- 👨‍💻 All of my projects are available at [heyitsmeravi.github.io/Portfolio](https://heyitsmeravi.github.io/Portfolio/);
-
+ 🌱 Learning advanced React and TypeScript. <br>
+ 🚀 Building Project Nexus — an AI-powered career navigator for developers. <br>
+ 👨‍💻 All of my projects are available at [heyitsmeravi.github.io/Portfolio](https://heyitsmeravi.github.io/Portfolio/); <br>
  📫 Reach me at **ravijnv2428@gmail.com**;
+ 
   </div>
 
   <div align="center"> 
