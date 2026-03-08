@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Ravi+Kumar!;Welcome+to+my+GitHub+Profile!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Ravi+Kumar!;Welcome+to+my+GitHub+Profile!" />
 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=heyitsmeravi&label=Profile%20views&color=0e75b6&style=flat" alt="heyitsmeravi" /> </p>
 
 <div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
- 🌱; I’m currently learning ** Java, C++ **
+ 🌱; I’m currently learning ** MERN Stack & Practicing DSA**
 
  👨‍💻 All of my projects are available at [heyitsmeravi.github.io/Portfolio](https://heyitsmeravi.github.io/Portfolio/);
 
@@ -24,8 +24,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-
-<img src="https://github-profile-trophy.vercel.app/?username=heyitsmeravi&theme=light">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,9 +49,17 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyitsmeravi&show_icons=true&locale=en&layout=compact" alt="heyitsmeravi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyitsmeravi&show_icons=true&locale=en" alt="heyitsmeravi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyitsmeravi&" alt="heyitsmeravi" /></p>
+<hr>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyitsmeravi&theme=radical" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heyitsmeravi&theme=radical" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heyitsmeravi&theme=radical" height="160" />
+</p>
+<hr>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heyitsmeravi&theme=radical" height="160" />
+</p>
+<hr>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyitsmeravi&bg_color=0f2027&color=00ffcc&line=ff007f&point=ffffff&area=true&hide_border=true" height="300"/>
+</p>
